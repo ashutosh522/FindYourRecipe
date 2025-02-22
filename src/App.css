@@ -1,0 +1,10 @@
+/* FOOTER CSS */
+.footer {
+  background-color: black;
+  color: #fff;
+  padding: 20px 0;
+}
+
+.footer p {
+  margin-bottom: 0;
+}
